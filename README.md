@@ -21,3 +21,6 @@ by going to http://localhost:3000 in their browser.
 -For issues with node installation visit https://nodejs.org/dist/latest-v16.x/docs/api/synopsis.html
 
 -For issues with npm, visit https://docs.npmjs.com/about-npm
+
+Documentation and associated materials located in Documentation Folder. PDF contains full
+overview of the project, and test images are associated with test casses in the project.
